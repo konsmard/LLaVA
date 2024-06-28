@@ -36,3 +36,6 @@ serve_images/
 runs/
 datasets/
 venv/
+text/
+text_mp16/
+
